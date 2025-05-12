@@ -16,7 +16,7 @@
 }
 
 /* Light Theme Variables */
-.light-theme {
+[data-theme="light"] {
     --primary-color: #3b82f6;
     --secondary-color: #2563eb;
     --text-color: #1f2937;
