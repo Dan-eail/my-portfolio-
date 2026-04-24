@@ -427,7 +427,7 @@ function Contact() {
             <div className="space-y-4">
               {[
                 { icon: "✉", label: "EMAIL", value: "birhanudaniel724@gmail.com" },
-                { icon: "📍", label: "LOCATION", value: "Addis Abeba, Ethiopia" },
+                { icon: "📍", label: "LOCATION", value: "Adiss Abeba, Ethiopia" },
                 { icon: "💬", label: "AVAILABILITY", value: "Open to opportunities", highlight: true },
               ].map((item) => (
                 <div key={item.label} className="flex items-center gap-4 bg-[#0d1035] border border-amber-500/20 rounded-xl p-4">
