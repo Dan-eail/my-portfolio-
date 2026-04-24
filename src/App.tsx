@@ -478,7 +478,7 @@ function Footer() {
     <footer className="bg-[#0b0d2a] border-t border-amber-500/20 py-6 px-6">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <span className="font-extrabold text-lg bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>Portfolio.</span>
-        <p className="text-slate-400 text-sm">© 2025 Daniel Birhanu · Full-Stack Developer & UI/UX Designer</p>
+        <p className="text-slate-400 text-sm">© 2026 Daniel Birhanu · Full-Stack Developer & UI/UX Designer</p>
         <div className="flex gap-6">
           {["Home", "About", "Skills", "Projects"].map((item) => (
             <a key={item} href={`#${item.toLowerCase()}`} className="text-slate-400 hover:text-amber-400 text-sm transition-colors duration-200">{item}</a>
